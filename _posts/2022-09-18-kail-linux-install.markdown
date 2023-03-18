@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "kail linux install"
+title:  "kail linux installation"
+subtitle: "Record the progress of install kail linux"
 date:   2022-09-18 18:36:57 +0800
-categories: jekyll update
+author: LoststarsJL
+header-img: "img/post-bg-duck.jpg"
+tags:
+  - kali
+  - linux
 ---
 
 # Kail Linux安装记录
@@ -13,9 +18,9 @@ https://www.kali.org/
 
 ## 新建虚拟机
 
-此次安装使用的是VMware Workstation 16 Pro 
+此次安装使用的是VMware Workstation 16 Pro
 
-1. 创建新的虚拟机 
+1. 创建新的虚拟机
 
 ![2022-09-18-kail-linux-install-20220919215753](https://raw.githubusercontent.com/LoststarsJL/MyImage/main/markdown-image/2022-09-18-kail-linux-install-20220919215753.png)
 
