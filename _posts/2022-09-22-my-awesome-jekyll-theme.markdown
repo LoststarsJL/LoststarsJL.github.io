@@ -162,7 +162,6 @@ layout: home
 ---
 ```
 
-
 `index.markdown`就是通过`layout: home`将内容插入到`home.html`中的`{{content}}`位置
 
 ## 记录一些搭建博客中看到的模板语言
