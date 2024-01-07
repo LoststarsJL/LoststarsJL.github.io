@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "install OpenGauss"
+title: "Install OpenGauss"
 date: 2023-12-24 23:19:00 +0800
 categories: 
 header-img: "img/post-bg.jpg"

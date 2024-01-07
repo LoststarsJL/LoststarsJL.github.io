@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "install OpenEuler"
+title: "Install OpenEuler"
 date: 2023-12-24 20:31:00 +0800
 categories: 
 header-img: "img/post-bg.jpg"
