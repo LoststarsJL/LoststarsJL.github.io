@@ -228,3 +228,9 @@ gs_ctl query -D /opt/software/openGauss/data/single_node
 ```
 
 ![2023-12-24-install-OpenGauss-``````](https://raw.githubusercontent.com/LoststarsJL/MyImage/main/markdown-image/2023-12-24-install-OpenGauss-%60%60%60%60%60%60.png)
+
+### 重启服务器后如何启动服务
+
+```bash
+gs_ctl start -D /opt/software/openGauss/data/single_node -Z single_node
+```
